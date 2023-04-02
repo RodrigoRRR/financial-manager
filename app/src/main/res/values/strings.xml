@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GestorFinanceiro</string>
+    <string-array name="financial_type">
+        <item>Receita</item>
+        <item>Despesa</item>
+    </string-array>
+</resources>
